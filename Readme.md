@@ -24,4 +24,4 @@ I put out the data into 2 group the bad(bottom 5 percent) and the great(top 5 pe
 
 ### The Description
 The description of the wine are very similar in a lot of ways as a matter of a fact up to 70 percent of the word use in the bottom wine can be found on the top wine. But, some word such as develop, refined, perfect, delicius, elegance is a tell tell sign of top wine due to the ratio of word appearance
-[Final.html]
+[To see the file](https://github.com/Akarawee-Chavanarorkrat/Final-Project-Stat-184)
